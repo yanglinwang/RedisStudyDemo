@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Study/JavaSE/lib/jedis-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Study/JavaSE/lib/json_all-master/json_all-master/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/Study/JavaSE/lib/json_all-master/json_all-master/commons-collections-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Study/JavaSE/lib/json_all-master/json_all-master/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Study/JavaSE/lib/json_all-master/json_all-master/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/Study/JavaSE/lib/json_all-master/json_all-master/ezmorph-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Study/JavaSE/lib/json_all-master/json_all-master/json-lib-1.1-jdk13.jar"/>
+	<classpathentry kind="lib" path="D:/Study/JavaSE/lib/fastjson-1.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/杨林旺/.m2/repository/org/apache/commons/commons-pool2/2.7.0/commons-pool2-2.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
